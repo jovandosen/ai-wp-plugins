@@ -1,0 +1,8 @@
+#qt_content_custom_shortcode {
+    background-image: url('test.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+}
